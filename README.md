@@ -14,15 +14,15 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chan2702-2)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chan2702-2)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Chan2702-2&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Chan2702-2?style=for-the-badge&color=7c3aed&labelColor=1e1b2e&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Chan2702-2?style=for-the-badge&color=6d28d9&labelColor=1e1b2e&label=STARS)
 
 </div>
 
@@ -31,7 +31,7 @@
 ### 🧠 About Me
 
 ```yaml
-name: "Your Name"
+name: "Chan"
 role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
 focus:
   - Designing scalable, production-grade backend systems
@@ -100,7 +100,7 @@ A production-grade platform that ingests real-time data streams and surfaces pre
 | Performance | Sub-200ms average API response time |
 | Security | JWT auth, RBAC, encrypted data at rest |
 | Impact | Reduced manual reporting effort by 70% |
-| Repository | [github.com/yourusername/project-one](https://github.com/yourusername/project-one) |
+| Repository | [github.com/Chan2702-2/project-one](https://github.com/Chan2702-2/project-one) |
 
 Designed with a modular microservice architecture to isolate the ingestion, processing, and serving layers, enabling independent scaling and simplified deployments.
 
@@ -119,7 +119,7 @@ A fault-tolerant job scheduling and orchestration engine built for high-throughp
 | Performance | 99.95% uptime SLA |
 | Security | mTLS between services, audit logging |
 | Impact | Cut infrastructure costs by 35% |
-| Repository | [github.com/yourusername/project-two](https://github.com/yourusername/project-two) |
+| Repository | [github.com/Chan2702-2/project-two](https://github.com/Chan2702-2/project-two) |
 
 Built around an event-driven architecture with idempotent workers and automatic retry/backoff strategies for resilience under load.
 
@@ -138,7 +138,7 @@ An LLM-powered assistant that answers domain-specific queries using a retrieval-
 | Performance | ~1.2s average response latency |
 | Security | Role-based document access control |
 | Impact | Reduced support ticket resolution time by 40% |
-| Repository | [github.com/yourusername/project-three](https://github.com/yourusername/project-three) |
+| Repository | [github.com/Chan2702-2/project-three](https://github.com/Chan2702-2/project-three) |
 
 Combined semantic chunking, hybrid search, and reranking to improve retrieval precision before passing context to the generation layer.
 
@@ -213,10 +213,10 @@ Contributed to core platform features and internal tooling under senior engineer
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yourusername)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Chan2702-2)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Chan2702-2)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Chan2702-2)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Chan2702-2)
 
 </div>
 
@@ -226,10 +226,10 @@ Contributed to core platform features and internal tooling under senior engineer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Chan2702-2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chan2702-2&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chan2702-2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -239,7 +239,7 @@ Contributed to core platform features and internal tooling under senior engineer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Chan2702-2&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -249,7 +249,7 @@ Contributed to core platform features and internal tooling under senior engineer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chan2702-2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
 
 </div>
 
@@ -259,7 +259,7 @@ Contributed to core platform features and internal tooling under senior engineer
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Chan2702-2/Chan2702-2/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -290,8 +290,8 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chan2702-2)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chan2702-2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
 </div>
