@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=CHAN%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=CHAN%20DEV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Angular%20Specialist%20%7C%20Full%20Stack%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+software+systems;Engineering+intelligent+AI%2FML+products;Full+Stack+%7C+Cloud+%7C+DevOps;Open+to+Software+Engineering+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+modern+web+applications;Specialized+in+Angular+Development;Full+Stack+%7C+Clean+Code+%7C+Scalable+UI;Open+to+Web+Developer+roles" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Based%20in-Your%20City,%20Country-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Based%20in-Kota%20Padang,%20Sumatera%20Barat-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chan2702-2)
+[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arif.chann)
 [![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifchan999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chan2702-2)
 
@@ -31,21 +29,20 @@
 ### 🧠 About Me
 
 ```yaml
-name: "Chan"
-role: "Software Engineer · AI/ML Engineer · Full Stack Developer"
+name: "Chan Dev"
+role: "Web Developer · Angular Specialist"
 focus:
-  - Designing scalable, production-grade backend systems
-  - Building AI/ML powered products with real-world impact
-  - Full stack development across modern web ecosystems
-  - Product-first engineering mindset — performance, security, UX
+  - Building responsive, component-driven web applications with Angular
+  - Full stack web development from UI to API integration
+  - Writing clean, maintainable, and scalable frontend architecture
+  - Product-first mindset — performance, usability, and reliability
 open_to:
-  - Software Engineering (Backend / Full Stack)
-  - AI/ML Engineering roles
-  - Open Source Collaboration
-  - Freelance / Contract Engineering
+  - Web Developer roles (Frontend / Full Stack)
+  - Angular Development projects
+  - Freelance / Contract Web Development
 ```
 
-I'm an engineer who enjoys turning ambiguous problems into reliable, scalable systems — from designing distributed backend architectures to shipping AI/ML features that hold up in production. I care deeply about clean architecture, measurable performance, and building products end-to-end rather than just components.
+Saya seorang Web Developer yang fokus di pengembangan aplikasi web modern menggunakan **Angular**. Saya senang membangun antarmuka yang rapi, terstruktur, dan mudah dikembangkan, serta menghubungkannya dengan backend untuk menghasilkan produk yang utuh dan siap digunakan.
 
 ---
 
@@ -53,33 +50,33 @@ I'm an engineer who enjoys turning ambiguous problems into reliable, scalable sy
 
 **Languages**
 
-![Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,go&theme=dark)
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,python&theme=dark)
 
 **Frontend**
 
-![Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css&theme=dark)
+![Skills](https://skillicons.dev/icons?i=angular,react,tailwind,bootstrap,sass&theme=dark)
 
 **Backend & Databases**
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis,graphql&theme=dark)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb&theme=dark)
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,git,nginx&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma&theme=dark)
 
 ---
 
-### 🤖 AI / ML Expertise
+### 🎯 Web Development Focus
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Supervised/unsupervised models, feature engineering, model evaluation |
-| Deep Learning | ⭐⭐⭐⭐☆ | CNNs, RNNs/LSTMs, Transformers with PyTorch/TensorFlow |
-| NLP | ⭐⭐⭐⭐☆ | Text classification, embeddings, LLM fine-tuning & prompting |
-| MLOps | ⭐⭐⭐☆☆ | Model serving, versioning, CI/CD for ML pipelines |
-| Generative AI | ⭐⭐⭐⭐☆ | RAG pipelines, agentic workflows, vector databases |
+| Angular | ⭐⭐⭐⭐⭐ | Component architecture, services, routing, RxJS, state management |
+| TypeScript | ⭐⭐⭐⭐☆ | Type-safe application development |
+| REST API Integration | ⭐⭐⭐⭐☆ | Connecting frontend applications to backend services |
+| Responsive UI/UX | ⭐⭐⭐⭐☆ | Mobile-first, cross-browser compatible interfaces |
+| Version Control | ⭐⭐⭐⭐☆ | Git workflows, branching, collaborative development |
 
 </div>
 
@@ -88,59 +85,40 @@ I'm an engineer who enjoys turning ambiguous problems into reliable, scalable sy
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>🔹 Project One — AI-Powered Analytics Platform</b></summary>
+<summary><b>🔹 Project Name — Short Project Title</b></summary>
 <br/>
 
-A production-grade platform that ingests real-time data streams and surfaces predictive insights through an AI-driven dashboard.
+Deskripsi singkat tentang project ini dan masalah yang diselesaikan.
 
 | Attribute | Detail |
 |---|---|
-| Stack | React, Node.js, FastAPI, PostgreSQL, Redis, Docker |
-| Scale | 100K+ events processed daily |
-| Performance | Sub-200ms average API response time |
-| Security | JWT auth, RBAC, encrypted data at rest |
-| Impact | Reduced manual reporting effort by 70% |
-| Repository | [github.com/Chan2702-2/project-one](https://github.com/Chan2702-2/project-one) |
+| Stack | Angular, TypeScript, Node.js, MySQL |
+| Scale | Isi skala pengguna / data |
+| Performance | Isi metrik performa |
+| Security | Isi mekanisme keamanan yang digunakan |
+| Impact | Isi dampak/hasil dari project |
+| Repository | [github.com/Chan2702-2/project-name](https://github.com/Chan2702-2) |
 
-Designed with a modular microservice architecture to isolate the ingestion, processing, and serving layers, enabling independent scaling and simplified deployments.
+Penjelasan singkat mengenai arsitektur atau pendekatan teknis project ini.
 
 </details>
 
 <details>
-<summary><b>🔹 Project Two — Distributed Task Orchestration Engine</b></summary>
+<summary><b>🔹 Project Name — Short Project Title</b></summary>
 <br/>
 
-A fault-tolerant job scheduling and orchestration engine built for high-throughput distributed workloads.
+Deskripsi singkat tentang project ini dan masalah yang diselesaikan.
 
 | Attribute | Detail |
 |---|---|
-| Stack | Go, Kubernetes, Kafka, MongoDB |
-| Scale | 1M+ jobs orchestrated monthly |
-| Performance | 99.95% uptime SLA |
-| Security | mTLS between services, audit logging |
-| Impact | Cut infrastructure costs by 35% |
-| Repository | [github.com/Chan2702-2/project-two](https://github.com/Chan2702-2/project-two) |
+| Stack | Angular, TypeScript, Express, PostgreSQL |
+| Scale | Isi skala pengguna / data |
+| Performance | Isi metrik performa |
+| Security | Isi mekanisme keamanan yang digunakan |
+| Impact | Isi dampak/hasil dari project |
+| Repository | [github.com/Chan2702-2/project-name](https://github.com/Chan2702-2) |
 
-Built around an event-driven architecture with idempotent workers and automatic retry/backoff strategies for resilience under load.
-
-</details>
-
-<details>
-<summary><b>🔹 Project Three — RAG-Based Knowledge Assistant</b></summary>
-<br/>
-
-An LLM-powered assistant that answers domain-specific queries using a retrieval-augmented generation pipeline over private documents.
-
-| Attribute | Detail |
-|---|---|
-| Stack | Python, LangChain, Pinecone, OpenAI API, Next.js |
-| Scale | 50K+ documents indexed |
-| Performance | ~1.2s average response latency |
-| Security | Role-based document access control |
-| Impact | Reduced support ticket resolution time by 40% |
-| Repository | [github.com/Chan2702-2/project-three](https://github.com/Chan2702-2/project-three) |
-
-Combined semantic chunking, hybrid search, and reranking to improve retrieval precision before passing context to the generation layer.
+Penjelasan singkat mengenai arsitektur atau pendekatan teknis project ini.
 
 </details>
 
@@ -148,28 +126,17 @@ Combined semantic chunking, hybrid search, and reranking to improve retrieval pr
 
 ### 💼 Experience
 
-**Software Engineer** · Company Name
-`Jan 2023 — Present`
+**IT Staff / Web Developer** · PT. Devetek Marapi Inovasi
+`Januari 2025 — Sekarang`
 
-Working across the full stack to design, build, and ship customer-facing features and backend services in a fast-paced product environment.
+Bertanggung jawab dalam pengembangan dan pemeliharaan aplikasi web menggunakan Angular untuk mendukung kebutuhan internal maupun produk perusahaan.
 
-- Architected and shipped backend services handling high-concurrency traffic
-- Led migration of legacy monolith components to microservices
-- Collaborated cross-functionally with product and design to ship features end-to-end
-- Mentored junior engineers on system design and code quality practices
+- Mengembangkan dan memelihara aplikasi web berbasis Angular
+- Berkolaborasi dengan tim untuk implementasi fitur baru
+- Melakukan debugging dan optimasi performa aplikasi
+- Mengintegrasikan frontend dengan REST API backend
 
-`Node.js` `React` `PostgreSQL` `AWS` `Docker`
-
-**Software Engineering Intern** · Previous Company
-`May 2022 — Aug 2022`
-
-Contributed to core platform features and internal tooling under senior engineering guidance.
-
-- Built internal dashboards used by 5+ teams for operational monitoring
-- Optimized database queries, improving load times by 45%
-- Wrote unit and integration tests to raise coverage above 85%
-
-`Python` `Django` `MySQL` `REST APIs`
+`Angular` `TypeScript` `JavaScript` `REST API` `Git`
 
 ---
 
@@ -179,10 +146,8 @@ Contributed to core platform features and internal tooling under senior engineer
 
 | Recognition | Details |
 |---|---|
-| 🥇 Hackathon Winner | 1st place, national-level hackathon, 500+ participants |
-| 🌟 Open Source Contributor | 20+ merged PRs across community projects |
-| 📢 Technical Speaker | Presented on system design at local dev meetup |
-| 🎓 Dean's List | Recognized for academic excellence, multiple semesters |
+| 🌟 Isi pencapaian | Isi detail pencapaian |
+| 📢 Isi pencapaian | Isi detail pencapaian |
 
 </div>
 
@@ -190,35 +155,9 @@ Contributed to core platform features and internal tooling under senior engineer
 
 ### 📜 Certifications
 
-**AWS**
+**Provider**
 
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-8B5CF6?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-7C3AED?style=flat-square&logo=amazonaws&logoColor=white)
-
-**Oracle**
-
-![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-Java%20Programmer-6D28D9?style=flat-square&logo=oracle&logoColor=white)
-
-**NPTEL**
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-5B21B6?style=flat-square&logo=googlescholar&logoColor=white)
-
-**Cisco**
-
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-4C1D95?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-### 💻 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Chan2702-2)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Chan2702-2)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Chan2702-2)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Chan2702-2)
-
-</div>
+![Certification](https://img.shields.io/badge/Isi%20Nama%20Sertifikasi-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white)
 
 ---
 
@@ -269,18 +208,16 @@ Contributed to core platform features and internal tooling under senior engineer
 
 ```yaml
 learning:
-  - Advanced distributed systems design
-  - LLM agent orchestration frameworks
+  - Advanced Angular state management (NgRx / Signals)
+  - Backend API design best practices
 building:
-  - AI-powered developer tooling
-  - Scalable backend architecture patterns
+  - Aplikasi web berbasis Angular untuk kebutuhan perusahaan
 exploring:
-  - Vector databases and retrieval systems
-  - Edge computing and low-latency architectures
+  - Full stack development dengan Node.js
 open_to:
-  - Software Engineering roles
-  - AI/ML Engineering roles
-  - Impactful open source collaboration
+  - Web Developer roles
+  - Angular Development projects
+  - Kolaborasi project frontend/full stack
 ```
 
 ---
@@ -289,10 +226,9 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chan2702-2)
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifchan999@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arif.chann)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chan2702-2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 
 </div>
 
@@ -300,7 +236,7 @@ open_to:
 
 <div align="center">
 
-*"Code is the closest thing we have to magic — write it with intention."*
+*"Code with intention, build with purpose."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
