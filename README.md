@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=CHAN%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+software+systems;Engineering+intelligent+AI%2FML+products;Full+Stack+%7C+Cloud+%7C+DevOps;Open+to+Software+Engineering+roles" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Chan2702-2)
-[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arifchan999@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chan2702-2)
 
 <br/>
